@@ -1,5 +1,6 @@
-# Caro-Lan
+﻿# Caro-Lan
 Cờ Caro Chơi Trong Mạng Lan Có Tích Hợp Chat(Dựa Trên Tutorial Của HowKteam)
+Code Trong CaroForm, Có File setup trong CaroLan/CaroLan-SetupFiles
 Vẫn còn khá nhiều bug như:
 -Nhập sai ip nhấn Connect sẽ gây đứng chương trình
 -Khi có người thoát nếu người còn lại ko nhấn vào MessageBox thoát sẽ bị crash chương trình

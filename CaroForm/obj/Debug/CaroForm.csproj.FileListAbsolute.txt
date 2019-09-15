@@ -1,0 +1,10 @@
+E:\CaroForm\CaroForm\bin\Debug\CaroForm.exe.config
+E:\CaroForm\CaroForm\bin\Debug\CaroForm.exe
+E:\CaroForm\CaroForm\bin\Debug\CaroForm.pdb
+E:\CaroForm\CaroForm\obj\Debug\CaroForm.csprojAssemblyReference.cache
+E:\CaroForm\CaroForm\obj\Debug\CaroForm.Form1.resources
+E:\CaroForm\CaroForm\obj\Debug\CaroForm.Properties.Resources.resources
+E:\CaroForm\CaroForm\obj\Debug\CaroForm.csproj.GenerateResource.cache
+E:\CaroForm\CaroForm\obj\Debug\CaroForm.csproj.CoreCompileInputs.cache
+E:\CaroForm\CaroForm\obj\Debug\CaroForm.exe
+E:\CaroForm\CaroForm\obj\Debug\CaroForm.pdb
